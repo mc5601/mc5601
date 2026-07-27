@@ -13,8 +13,8 @@ I work at the bridge between the rock and the code — geoscience, machine learn
 - **[Lightning prediction](https://github.com/mc5601/Lightning_Prediction)** — *course project, individual report.* Predicting lightning occurrence over the continental U.S. from ERA5 reanalysis + GOES-16 GLM, comparing Random Forest, Neural Network, CNN and U-Net under extreme class imbalance (ROC-AUC, PR-AUC, feature importance).
 
 ## Course projects — LEAP: Climate Prediction Challenges with ML
-> These were **team** projects. I keep them on my profile as **forks**, so the original team repositories stay credited.
-- **[Ocean pCO₂ reconstruction](https://github.com/mc5601/Project_3_fork)** — *Group 4.* Reconstructing surface-ocean pCO₂ from inexpensive drivers with a residual method + **XGBoost** on a CMIP6 testbed, with temporal (lag) analysis.
+> These were **team** projects. I keep them on my profile as **forks** where GitHub allows it, and link to the original team repo otherwise — the teams stay credited either way.
+- **[Ocean pCO₂ reconstruction](https://github.com/acastillo5248/Project_3_fork)** — *Group 4 (team repo).* Reconstructing surface-ocean pCO₂ from inexpensive drivers with a residual method + **XGBoost** on a CMIP6 testbed, with temporal (lag) analysis.
 - **[Upper-ocean mixing](https://github.com/mc5601/OceanMixingProject)** — *Group 5.* Clustering oceanic regimes by physical conditions to parameterize mixing.
 - **[EDAV — tropical cyclones](https://github.com/mc5601/LEAPCourse-Climate-Pred-Challenges)** — *Group 3.* Exploratory data analysis and visualization of cyclone tracks.
 
